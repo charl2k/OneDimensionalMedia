@@ -1,3 +1,10 @@
+/*
+OneDimensionalMovie Player
+ver.0.3
+release: 2018.11.29
+CHARLII_k
+twitter:@CHARL2k
+*/
 import java.awt.datatransfer.*;  
 import java.awt.dnd.*;  
 import java.io.File;  
@@ -12,7 +19,7 @@ Component component;
 int mode = 0;
 int max_width = 960;
 int ratio_x = 16;
-int ratio_y = 4;
+int ratio_y = 9;
 boolean cs = false;//true=ratioの比、false=画像サイズ
 //動画再生変数
 String imgPath = "default.png";
