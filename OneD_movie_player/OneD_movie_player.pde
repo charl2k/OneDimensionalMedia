@@ -3,6 +3,7 @@ OneDimensionalMovie Player
 ver.0.3
 release: 2018.11.29
 CHARLII_k
+GitHub:@charl2k
 twitter:@CHARL2k
 */
 import java.awt.datatransfer.*;  
